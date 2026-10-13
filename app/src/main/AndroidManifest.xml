@@ -4,6 +4,7 @@
 
     <application
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
+        android:icon="@mipmap/ic_launcher"
         android:label="NOVA LUX Launcher"
         android:allowBackup="false"
         android:supportsRtl="true">
